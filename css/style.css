@@ -20,3 +20,18 @@
 .focus-secondary:active {
   background: #6c757d;
 }
+
+.btn-close:focus,
+.btn-close:active {
+  box-shadow: none;
+}
+
+.modal-header {
+  border-bottom: none;
+}
+.modal-footer {
+  border-top: none;
+}
+
+.btn-close {
+}
